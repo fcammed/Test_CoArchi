@@ -1,0 +1,12 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[db] Database Server (Platform)"
+    id="id-bf9efaa51cf244a7bba86039c96b8e97"
+    documentation="Archimate 3: http://pubs.opengroup.org/architecture/archimate3-doc/chap10.html#_Toc489946086&#xA;System software represents software that provides or contributes to an environment for storing, executing, and using software or data deployed within it.&#xA;&#xA;&#xA;System software represents systems running on a server which don't tend to offer &quot;user interactive&quot; interfaces, but can be considered servers, which may be serving an interactive Application.  E.g. Apache, Oracle Forms, MS SQL, Java EE, Ubuntu, etc.">
+  <properties
+      key="software"
+      value="OracleDB"/>
+  <properties
+      key="version"
+      value="19c"/>
+</archimate:SystemSoftware>
