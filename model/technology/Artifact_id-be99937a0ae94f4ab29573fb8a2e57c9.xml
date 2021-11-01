@@ -1,11 +1,11 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oracle 19c &lt;&lt;Software>>"
-    id="id-3aa47b299e8b426a9172bca078a2d62b">
+    name="PostgreSQL"
+    id="id-be99937a0ae94f4ab29573fb8a2e57c9">
   <properties
       key="software"
-      value="OracleDB"/>
+      value="postgresql"/>
   <properties
       key="version"
-      value="19c"/>
+      value="14"/>
 </archimate:Artifact>

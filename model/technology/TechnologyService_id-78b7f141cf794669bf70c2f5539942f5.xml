@@ -1,0 +1,8 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ms] kafka connection service"
+    id="id-78b7f141cf794669bf70c2f5539942f5">
+  <properties
+      key="type"
+      value="ms"/>
+</archimate:TechnologyService>

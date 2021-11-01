@@ -1,11 +1,11 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oracle 19c &lt;&lt;Software>>"
-    id="id-3aa47b299e8b426a9172bca078a2d62b">
+    name="Kafka 3.12"
+    id="id-fc66e0d95d9b45c382fb4fc91b628dee">
   <properties
       key="software"
-      value="OracleDB"/>
+      value="Kafka"/>
   <properties
       key="version"
-      value="19c"/>
+      value="3.12"/>
 </archimate:Artifact>

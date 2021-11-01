@@ -1,8 +1,7 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[db] Database Booking Connection Service"
-    id="id-3b69106df9a2487787be67012168fa79"
-    documentation="Servicio de BD de Booking">
+    name="[db] Database Customer Connection Service"
+    id="id-3c4faa41ad514626a9287e47c89bb7f9">
   <properties
       key="type"
       value="ddbb"/>
